@@ -7,5 +7,5 @@ create test db and run employee.sql file to create employee table.
 #Configure CI
 Copy all files of this git repo into www/project_folder.
 
-#how to run
+#How to run and test
 open http://project_name/employee on browser.
